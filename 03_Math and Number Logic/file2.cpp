@@ -6,7 +6,7 @@ using namespace std;
 
 int determineNumber(int n){
   if(n < 100 || n > 999) {
-    cout << "Not a distinct number." ;
+    cout << "Not a 3-digit number." << endl; 
     return 1; 
   }
 
