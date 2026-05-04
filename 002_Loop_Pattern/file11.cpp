@@ -1,9 +1,13 @@
-
+// 1 
+// 2 1 
+// 3 2 1 
+// 4 3 2 1 
+// 5 4 3 2 1 
 
 #include <iostream>
 using namespace std;
 int main() {
-  int n = 10;
+  int n = 5;
 
   for (int row = 1; row <= n; row++) {
     for (int col = row; col >= 1; col--) {
