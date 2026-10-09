@@ -4,7 +4,6 @@
 #include<iostream>
 using namespace std ;
 
-
 void fun(){
   double res = 30 / 60;
   cout << res ;
