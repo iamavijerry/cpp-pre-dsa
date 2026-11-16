@@ -32,6 +32,7 @@ Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0258-add-digits/) | Easy |
 ## Simulation
