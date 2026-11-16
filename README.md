@@ -32,6 +32,7 @@ Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0007-reverse-integer/) | Medium |
+| [0231-power-of-two](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -41,4 +42,12 @@ Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0258-add-digits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
