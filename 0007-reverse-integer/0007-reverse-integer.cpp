@@ -4,7 +4,8 @@ public:
         int res = 0;
         while (x) {
             int ld = x % 10;
-            if(res > INT_MAX / 10  || res < INT_MIN / 10) return 0;
+            if(res > INT_MAX / 10  || (res == INT_MAX / 10 && ld > 7)) return 0;
+            if(res < INT_MIN / 10  || (res == INT_MIN / 10 && ld < -8)) return 0;
             res = res * 10 + ld;
             x /= 10;
         }
