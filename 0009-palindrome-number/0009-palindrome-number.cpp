@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        long res = 0; int num = x;
-        if (num < 0)
+        long res = 0;
+        int num = x;
+        if (num < 0 ||(x % 10 == 0 && x != 0))
             return 0;
-
 
         while (num) {
             int ld = num % 10;
