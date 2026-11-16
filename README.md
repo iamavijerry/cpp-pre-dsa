@@ -31,6 +31,7 @@ Practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0258-add-digits](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
