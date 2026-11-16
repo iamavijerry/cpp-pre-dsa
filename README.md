@@ -47,6 +47,7 @@ Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/0231-power-of-two/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/iamavijerry/cpp-pre-dsa/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
